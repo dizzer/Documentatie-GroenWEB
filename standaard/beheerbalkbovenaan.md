@@ -27,13 +27,13 @@ Wanneer het aantal berichten op de site begint toe te nemen kan je de filteropti
 
 ## Hoofdmenu aanpassen
 
-![screenshot 4](../beelden/shorcut_hoofdmenu_aanpassen.png)
+![screenshot 4](../beelden/shortcut_hoofdmenu_aanpassen.png)
 
 Hier kan je de links in het hoofdmenu beheren.
 
 Het hoofdmenu staat op een doorsnee computerscherm aan de linkerkant, onder het logo / *de foto van de mandataris of kandidaat*.  Bij kleinere schermen komt het bovenaan te staan (screenshot 5). 
 
-Standaard zijn er zes links voorzien. Toevoegen kan, maar overdrijf daar niet mee, het wordt al snel onoverzichtelijk. [Let bovendien op dat het niet onleesbaar wordt op een klein scherm.](../fag_tips/let_op.md)
+Standaard zijn er zes links voorzien. Toevoegen kan, maar overdrijf daar niet mee, het wordt al snel onoverzichtelijk. [Let bovendien op dat het niet onleesbaar wordt op een klein scherm.](../faq_tips/let_op.md)
 
 Hoe je concreet links voor het hhodmenu aanmaakt wordt verder besproken.
 	
