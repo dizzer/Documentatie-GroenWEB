@@ -6,24 +6,24 @@ Het onderliggende CMS is drupal, versie 7.
 
 Deze documentatie is geschreven vanuit het standpunt van de beheerder van de site. Die logt in .. en dan? 
 
-* je ziet een dubbele balk bovenaan 
+* je ziet een [dubbele balk bovenaan](standaard/beheerbalkbovenaan.md) 
 * en drie kolommen
 	* een navigatiemenu aan de linkerkant
 	* een middenbalk, met
 		* een blok dossiers
 		* en een blok actueel
-	* een rectherkolom met
+	* een rechterkolom met
 		* zoekvak
 		* nieuwsfeed groen.be
 		* dossiers blok (niet op de voorpagina) 	
 
 ## Onderdelen documentatie
 
-De folder standaard bevat een beschrijving van alle onderdelen en functionaliteit van een standaard GroenWEBsite.
+De folder [standaard](./standaard) bevat een beschrijving van alle onderdelen en functionaliteit van een standaard GroenWEBsite.
 
-De folder extensies bevat een beschrijving van alle onderdelen en functionaliteit die extra aan een standaard GroenWEBsite kunnen worden toegevoegd.
+De folder [extensies](./extensies) bevat een beschrijving van alle onderdelen en functionaliteit die extra aan een standaard GroenWEBsite kunnen worden toegevoegd.
 
-De folder FAQ & Tips bevat vaak gestelde vragen (en de bijhorende antwoorden) en een aantal puntjes om op te letten.
+De folder [FAQ & Tips](faq_tips) bevat vaak gestelde vragen (en de bijhorende antwoorden) en een aantal puntjes om op te letten.
 
 
 ## Drie types sites 
@@ -38,4 +38,4 @@ De folder FAQ & Tips bevat vaak gestelde vragen (en de bijhorende antwoorden) en
 ## Oefenmateriaal
 
 * [oefensite](http://oefen3.groenweb.be)
-* opdrachten
+* [opdrachten](./faq_tips/opdrachten.md)
