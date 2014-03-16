@@ -35,7 +35,7 @@ Dit is eigenlijk een veld dat specifiek voor mandatarissen is aangemaakt. Het vo
 
 ![](../beelden/bericht_aanmaken_6.png)
 
-Voor dit type bericht zijn de alle velden automatisch ingevuld en zouden in principe geen aanpassingen van lokale beheerders vragen.
+Voor dit type bericht zijn alle velden automatisch ingevuld en zouden in principe geen aanpassingen van lokale beheerders vragen.
 
 ![](../beelden/bericht_aanmaken_7.png)
 
