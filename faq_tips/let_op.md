@@ -1,6 +1,6 @@
 # Let op!
 
-een aantal tips om te zorgen dat je geen onbedoelde schade aanricht:
+we lijsten een aantal aandachtspunten op om ongewenste effecten op de structuur van de site te voorkomen:
 
 ## blokken
 * per abuis verwijderen

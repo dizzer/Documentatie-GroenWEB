@@ -35,7 +35,7 @@ Het hoofdmenu staat op een doorsnee computerscherm aan de linkerkant, onder het 
 
 Standaard zijn er zes links voorzien. Toevoegen kan, maar overdrijf daar niet mee, het wordt al snel onoverzichtelijk. [Let bovendien op dat het niet onleesbaar wordt op een klein scherm.](../faq_tips/let_op.md)
 
-Hoe je concreet links voor het hhodmenu aanmaakt wordt verder besproken.
+Hoe je concreet links voor het hoofdmenu aanmaakt wordt [verder](./hoofdmenu_aanpassen.md) besproken.
 	
 ![screenshot 5](../beelden/hoofdmenu_bovenaan.png)
 
@@ -45,7 +45,7 @@ Hoe je concreet links voor het hhodmenu aanmaakt wordt verder besproken.
 
 De inhoud van de site categoriseren gebeurt met een zgn. taxonomie. Standaard zijn er twee woordenlijsten: dossiers / *bevoegdheden* en 'tags'. De eerste bestaat uit zoveel termen als er dossiers zijn en dient om berichten aan dossiers te koppelen, de tweede woordenlijst bevat termen die je zelf toevoegt op het moment dat je een bericht aanmaakt. 
 
-Hoe je concreet termen aanmaakt wordt verder besproken.
+Hoe je concreet termen aanmaakt wordt [verder](./tags_beheren.md) besproken.
 
 ## Blokken beheren
 
@@ -55,5 +55,5 @@ Hier kan je nieuwe blokken voor de rechterkolom aanmaken en een plaats geven.
 
 Het is van belang dat je de instellingen van bestaande blokken niet aanpast of bestaande blokken verwijdert. Dat zou ongewenste effecten hebben op de structuur van je site.
 
-Hoe je precies blokken aanmaakt wordt verder besproken.
+Hoe je precies blokken aanmaakt wordt [verder](./rechterblokken.md) besproken.
     

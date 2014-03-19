@@ -1,12 +1,13 @@
 # Navigatiemenu linkerkant
 
-6 menuitems, links
+het navigatiemenu heeft standaard 6 links
 
-1. home
-2. actueel
-3. over
-4. onze mensen / kabinet
-5. agenda
-6. contact
+1. home: startpagina
+2. actueel: overzicht laatste berichten
+3. over: pagina met informatie over de groep of mandataris / kandidaat
+4. onze mensen / kabinet: overzicht medewerkers / groepsleden / kandidaten
+5. agenda: overzicht activiteiten
+6. contact: contactformulier
 
-	aan te vullen
+	
+[Het navigatiemenu aanpassen](hoofdmenu_aanpassen.md)

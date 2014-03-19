@@ -2,22 +2,24 @@
 
 De pagina's in deze folder beschrijven de functionaliteit en structuur van een standaard drupal 7 GroenWEB site.
 
-## Aanmaken berichtn
+## Aanmaken berichten
 
-* bericht
-* pagina
-* fiche medewerker
-* dossier
+* [bericht](./pagina_aanmaken.md)
+* [pagina](./pagina_aanmaken.md)
+* [fiche medewerker](./fiche_medewerker_aanmaken.md)
+* [dossier](./dossier_aanmaken.md)
 
 ## Structuur
 
-* beheerbalk bovenaan
-* rechterblokken
-* hoofdmenu
-* tags beheren
+* [beheerbalk bovenaan](./beheerbalkbovenaan.md)
+* [rechterblokken](./rechterblokken.md)
+* [navigatiemenu](./navigatiemenu_linkerkant.md)
+* [tags beheren](./tags_beheren.md)
 
 ## Andere
 
-* contactformulier
-* inhoud zoeken
-* wysiwyg editor
+* [contactformulier](./contactformulier.md)
+* [inhoud zoeken](./inhoud_zoeken.md)
+* [tekst opmaken](./wysiwyg_editor.md)
+* [beelden toevoegen](./beelden_toevoegen.md)
+* [video toevoegen](./video_toevoegen)
