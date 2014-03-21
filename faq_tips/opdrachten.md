@@ -1,6 +1,6 @@
 # Opdrachten
 
-Indien je deze opdrachten kan uitvoeren dan heb je de belangrijkste functionaliteit op de knie. Gebruik hiervoor de [oefensite](http://oefen3.groenweb.be).
+Indien je deze opdrachten kan uitvoeren dan heb je de belangrijkste functionaliteit onder de knie. Gebruik hiervoor de [oefensite](http://oefen3.groenweb.be).
 
 ## berichten
 
