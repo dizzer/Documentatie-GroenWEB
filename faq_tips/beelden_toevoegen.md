@@ -15,17 +15,17 @@ In het eerste geval is het vrij eenvoudig, dan kan men volstaan met een knopje i
 
 	aan te vullen
 	
-![](../beelden_toevoegen_beeld.png)
+![](../beelden/beelden_toevoegen_beeld.png)
 
-![](../beelden_toevoegen_upload.png)
+![](../beelden/beelden_toevoegen_upload.png)
 
-![](../beelden_toevoegen_filebrowser.png)
+![](../beelden/beelden_toevoegen_filebrowser.png)
 
-![](../beelden_toevoegen_remote.png)
+![](../beelden/beelden_toevoegen_remote.png)
 
-![](../beelden_toevoegen_file_attach.png)
+![](../beelden/beelden_toevoegen_file_attach.png)
 
-![](../beelden_toevoegen_uitlijnen.png)
+![](../beelden/beelden_toevoegen_uitlijnen.png)
 
 
 

@@ -21,5 +21,4 @@ De pagina's in deze folder beschrijven de functionaliteit en structuur van een s
 * [contactformulier](./contactformulier.md)
 * [inhoud zoeken](./inhoud_zoeken.md)
 * [tekst opmaken](./wysiwyg_editor.md)
-* [beelden toevoegen](./beelden_toevoegen.md)
-* [video toevoegen](./video_toevoegen)
+

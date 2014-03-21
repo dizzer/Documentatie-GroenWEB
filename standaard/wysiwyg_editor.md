@@ -8,7 +8,7 @@ Hoe je [beelden](./beelden_toevoegen.md), [video](video_toevoegen.md) en [links]
 
 ![](../beelden/wysiwyg.png)
 
-Tekst opmaken doet men in praktijk vaak in een tekstverwerker, waarna de opgemaakte tekst wordt geplakt in het aanmaakformulier. Zeker als dat vanuit MSWord gebeurt is dat [eigenlijk niet zo'n goed idee,](http://theedublogger.com/2009/01/20/why-you-shouldnt-write-your-posts-using-word/) omdat er bij het kopiëren heel wat ongewenste code mee komt die mogelijk impact heeft op de lay-out van het bericht en zelfs de website. Indien dit toch de gewenste werkwijze is gebruik dan het knopje 'Paste from Word'. Hierdoor wordt de meeste ongewenste code er uit gefilterd:
+Tekst opmaken doet men in praktijk vaak in een tekstverwerker, waarna de opgemaakte tekst wordt geplakt in het aanmaakformulier. Zeker als dat vanuit MSWord gebeurt is dat [eigenlijk niet zo'n goed idee,](http://theedublogger.com/2009/01/20/why-you-shouldnt-write-your-posts-using-word/) omdat er bij het kopiëren heel wat ongewenste code mee komt die mogelijk impact heeft op de lay-out van het bericht en zelfs de website. Indien dit toch de gewenste werkwijze is gebruik dan het knopje 'Paste from Word'. Hierdoor wordt de meeste ongewenste code er uitgefilterd:
 
 ![](../beelden/wysiwyg_word.png)
 
@@ -23,11 +23,11 @@ Van zodra de tekst in het aanmaakformulier staat kan via de knoppen in de wysiwy
 
 Wat ook kan met de editor is structuur toevoegen aan de tekst. In plaats de hoofdingen manueel op te maken in een tekstverwerk (font en fontgrootte toewijzen ed.) is het beter om de opmaak over te laten aan de website en enkel de structuur van de hoofdingen aan te geven: 
 
-![](wysiwyg_structuur.png) 
+![](../beelden/wysiwyg_structuur.png) 
 
 ## Full screen
 
-![](wysiwyg_full_screen.png) 
+![](../beelden/wysiwyg_full_screen.png) 
 
 Via deze knop kan je van de hele breedte van de browser gebruik maken om de tekst te bewerken.
 
