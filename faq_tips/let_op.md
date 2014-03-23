@@ -16,3 +16,6 @@ we lijsten een aantal aandachtspunten op om ongewenste effecten op de structuur 
 	
 ## voorpagina editeren
 ![]()
+
+## image resize in chrome en safari
+![]()  ![]()
