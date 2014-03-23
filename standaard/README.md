@@ -4,7 +4,7 @@ De pagina's in deze folder beschrijven de functionaliteit en structuur van een s
 
 ## Aanmaken berichten
 
-* [bericht](./pagina_aanmaken.md)
+* [bericht](./bericht_aanmaken.md)
 * [pagina](./pagina_aanmaken.md)
 * [fiche medewerker](./fiche_medewerker_aanmaken.md)
 * [dossier](./dossier_aanmaken.md)

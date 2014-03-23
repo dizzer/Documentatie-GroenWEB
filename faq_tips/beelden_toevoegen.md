@@ -22,18 +22,25 @@ Er is geen limiet aan het aantal beelden, maar het is niet de bedoeling hier vol
 ### Onder  'Bestand toevoegen' staan vier opties:
 
 1.  opladen van je harde schijf
+
 ![](../beelden/beelden_toevoegen_upload.png)
+
 klik 'Browse', selecteer het beeld, klik uploaden
 
 2. een eerder opgeladen beeld hergebruiken
+
 ![](../beelden/beelden_toevoegen_filebrowser.png)
 
 3. een beeld van op een andere website gebruiken (groen.be bijvoorbeeld)
+
 ![](../beelden/beelden_toevoegen_remote.png)
+
 url van het beeld plakken, klik 'transfer'
 
 4. een beeld gebruiken van de vorige versie van je site
+
 ![](../beelden/beelden_toevoegen_file_attach.png)
+
 alle beelden en bijlages van de vorige versie zijn gekopieerd naar een folder op de nieuwe server. Via 'File Attach' kan je er uit kiezen. Enkel een selectie op naam is mogelijk.
 
 ### Op de voorpagina
