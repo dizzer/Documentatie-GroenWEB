@@ -6,13 +6,15 @@ Het onderliggende CMS is drupal, versie 7.
 
 Deze documentatie is geschreven vanuit het standpunt van de beheerder van de site. Die logt in .. en dan? 
 
-* je ziet een [dubbele balk bovenaan](standaard/beheerbalkbovenaan.md) 
+![](../beelden/en_dan.png)
+
+* je ziet een [dubbele balk bovenaan](standaard/beheerbalkbovenaan.md) (1)
 * en drie kolommen
-	* een navigatiemenu aan de linkerkant
-	* een middenbalk, met
+	* een [navigatiemenu aan de linkerkant](standaard/navigatiemenu_linkerkant.md) (2)
+	* een middenbalk, met (3)
 		* een blok dossiers
 		* en een blok actueel
-	* een rechterkolom met
+	* een rechterkolom (4) met 
 		* zoekvak
 		* nieuwsfeed groen.be
 		* dossiers blok (niet op de voorpagina) 	
