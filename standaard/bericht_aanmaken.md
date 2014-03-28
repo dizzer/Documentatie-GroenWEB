@@ -1,5 +1,6 @@
 # Bericht aanmaken
 
+'Bericht' is wat je doorgaans zal gebruiken voor nieuws en aankondigingen. Berichten komen op de voorpagina in het blok 'Actueel' en onder het menu-item 'Actueel' aan de linkerkant terecht.
 
 ![](../beelden/bericht_aanmaken.png)
 

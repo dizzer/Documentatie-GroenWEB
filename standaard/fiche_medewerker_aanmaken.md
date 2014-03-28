@@ -1,6 +1,6 @@
 # Fiche medewerker aanmaken 
 
-Dit type bericht dient om mensen voor te stellen: kabinetsmedewerkers, kandidaten voor verkiezingen, groepsleden ... Alle fiches worden opgelijst op een aparte pagina ([voorbeeld](http://tineheyse.be/kabinet). Een link naar die ovezichtspagina komt in het hoofdmenu links. 
+Dit type bericht dient om mensen voor te stellen: kabinetsmedewerkers, kandidaten voor verkiezingen, groepsleden ... Alle fiches worden opgelijst op een aparte pagina ([voorbeeld](http://tineheyse.be/kabinet)). Een link naar die ovezichtspagina komt in het hoofdmenu links. 
 
 Het aanmaakformulier heeft een beperkt aantal velden:
 

@@ -11,10 +11,10 @@ Deze documentatie is geschreven vanuit het standpunt van de beheerder van de sit
 * je ziet een [dubbele balk bovenaan](standaard/beheerbalkbovenaan.md) (1)
 * en drie kolommen
 	* een [navigatiemenu aan de linkerkant](standaard/navigatiemenu_linkerkant.md) (2)
-	* een middenbalk, met (3)
-		* een blok dossiers
-		* en een blok actueel
-	* een rechterkolom (4) met 
+	* een middenbalk (3), met 
+		* een blok [dossiers](standaard/dossier_aanmaken.md)
+		* en een blok [actueel](standaard/bericht_aanmaken.md)
+	* een [rechterkolom](standaard/rechterblokken.md) (4) met 
 		* zoekvak
 		* nieuwsfeed groen.be
 		* dossiers blok (niet op de voorpagina) 	

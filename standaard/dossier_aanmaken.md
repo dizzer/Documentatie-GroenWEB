@@ -1,10 +1,15 @@
 # Dossier / Bevoegdheid aanmaken
 
+Vaak hebben groepen één of meerdere dossiers die lokaal van belang zijn en een hele tijd meegaan. Dit berichttype laat toe alle berichten, beelden en duiding te verzamelen. *Voor mandatarissen wordt dossier vervangen door 'Bevoegdheid'.*
 Dit is mogelijk het meest gecompliceerde type bericht, omdat 1 dossier op verschillende plaatsen op de site zichtbaar is. Met name in een overzicht op de voorpagina, in een rechterblok op alle pagina's behalve de voorpagina en op een eigen pagina.
 
 ## Twee aandachtspunten
 
-Op een standaard website zijn drie dossiers voorgeconfigureerd (milieu, noord-zuid en energie). Indien je beslist om op je lokale website de dossierfuncitonaliteit te gebruiken dan is het aangewezen om geen nieuwe aan te maken maar de bestaande te hergebruiken met andere gegevens. Waarom? Omdat berichten die toegewezen zijn aan een bepaald dossier onderaan de dossierpagina zouden te zien zijn ([voorbeeld](http://elkedecruynaere.be/bevoegdheid/onderwijs)). 
+Op een standaard website zijn drie dossiers voorgeconfigureerd (milieu, noord-zuid en energie) en zichbaar op de voorpagina. 
+
+![](../beelden/voorgeconfigureerde_dossiers.png)
+
+Indien je beslist om op je website dossiers te gebruiken dan is het aangewezen de bestaande te hergebruiken met andere gegevens in plaats van nieuwe aan te maken. Waarom? Omdat berichten die toegewezen zijn aan een bepaald dossier onderaan de dossierpagina zouden te zien zijn ([voorbeeld](http://elkedecruynaere.be/bevoegdheid/onderwijs)). 
 
 ![](../beelden/taxonomieveld_dossiers.png)
 

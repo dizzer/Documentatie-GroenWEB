@@ -1,7 +1,6 @@
 # Twittertimeline
 
-## Groen
+Een rechterblok met de twittertimeline van ofwel de groep/mandataris, ofwel die van Groen.
 
-## Lokaal
+![](../beelden/twittersfeer.png)
 
-	aan te vullen

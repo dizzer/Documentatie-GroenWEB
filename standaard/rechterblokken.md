@@ -2,16 +2,17 @@
 
 ![](../beelden/standaard_rechterblokken.png)
 
-Standaard zijn er slechts 4 blokken voorzien
+Standaard zijn er 5 blokken voorzien
 
 1. zoekvenster
-2. links blok 
-3. nieuwsfeed groen.be 
-4. bevoegdheden/dossiers (niet op de voorpagina)
+2. agenda (de 5 eerstkomende activiteiten)
+3. links blok 
+4. nieuwsfeed groen.be 
+5. bevoegdheden/dossiers (niet op de voorpagina)
 
 Bepaalde [extensies](../extensies), zoals bjvoorbeeld [blog](../extensies/blog.md) en [nieuwsbrief](../extensies/nieuwsbrief.md), maken bij activatie een blok aan.
 
-De sitebeheerder kan zelf ook nieuwe blokken aanmaken ([tip](../faq_tips/let_op.md)) via deze beheerpagina:
+De sitebeheerder kan zelf ook nieuwe blokken aanmaken ([Let op!](../faq_tips/let_op.md)) via deze beheerpagina:
 
 ![](../beelden/blokken_beheren.png) 
 
@@ -32,4 +33,3 @@ Kies hier onder het standaard thema 'Sidebar right'.
 ![](../beelden/blokken_aanmaken2.png) 
 
 **Zichtbaarheidsinstellingen**: standaard wordt een nieuw blok op elke pagina van de site weergegeven. Hier kan je dat bijstellen en er voor kiezen om het blok enkel op bepaalde pagina's of enkel bij bepaalde types berichten te tonen.
-*

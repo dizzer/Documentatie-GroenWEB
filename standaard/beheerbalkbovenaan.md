@@ -11,11 +11,11 @@ Hier start je om nieuwe inhoud toe te voegen. Standaard zijn er vier types:
 
 1. 'Bericht' is wat je doorgaans zal gebruiken voor nieuws en aankondigingen. Berichten komen op de voorpagina en onder het menu-item 
 'Actueel' terecht.
-2. 'Dossier': vaak hebben groepen één of meerdere dossiers die lokaal van belang zijn dn een hele tijd meegaan. Dit berichttype laat toe alle berichten, beelden en duiding te verzamelen. *Voor mandatarissen wordt dossier vervangen door 'Bevoegdheid'.*
+2. 'Dossier': vaak hebben groepen één of meerdere dossiers die lokaal van belang zijn en een hele tijd meegaan. Dit berichttype laat toe alle berichten, beelden en duiding te verzamelen. *Voor mandatarissen wordt dossier vervangen door 'Bevoegdheid'.*
 3. 'Medewerker': groepen stellen hiermee hun mensen/kandidaten voor (*kabinetsleden voor mandatarissen*).
 4. 'Pagina' gebruik je voor statische informatie (informatie die niet vaak verandert), zoals een 'Over ons' pagina.
 
-Hoe je concreet berichten aanmaakt wordt verder besproken, in een pagina per type.
+Hoe je concreet berichten aanmaakt wordt verder besproken: [bericht](./bericht_aanmaken.md), [dossier](./dossier_aanmaken.md),[medewerker](./fiche_medewerker_aanmaken.md),[pagina](./pagina_aanmaken.md).
 
 ## Inhoud zoeken
 

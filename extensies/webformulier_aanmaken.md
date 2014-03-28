@@ -1,3 +1,3 @@
 # Formulieren aanmaken
 
-	aan te vullen
+Op dezelfde manier als het [contactformulier](../standaard/contactformulier.md) andere formulieren (petities, enquêtes ...) aanmaken.
