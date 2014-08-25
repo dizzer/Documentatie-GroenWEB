@@ -21,7 +21,7 @@ Een betere werkwijze in dit opzicht is ofwel de tekst in een [teksteditor](https
 
 Van zodra de tekst in het aanmaakformulier staat kan via de knoppen in de wysiwyg editor opmaak worden toegevoegd: cursief, vet, lijsten, inspringen, uitlijnen ed. zijn hoogstwaarschijnlijk bekend.
 
-Wat ook kan met de editor is structuur toevoegen aan de tekst. In plaats de hoofdingen manueel op te maken in een tekstverwerk (font en fontgrootte toewijzen ed.) is het beter om de opmaak over te laten aan de website en enkel de structuur van de hoofdingen aan te geven: 
+Wat ook kan met de editor is structuur toevoegen aan de tekst. In plaats van de hoofdingen manueel op te maken in een tekstverwerk (font en fontgrootte toewijzen ed.) is het beter om de opmaak over te laten aan de website en enkel de structuur van de hoofdingen aan te geven: 
 
 ![](../beelden/wysiwyg_structuur.png) 
 
