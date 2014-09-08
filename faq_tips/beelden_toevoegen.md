@@ -17,6 +17,14 @@ In het aanmaakformulier van bericht en pagina vind je het  veld om één of meer
 	
 ![](../beelden/beelden_toevoegen_beeld.png)
 
+### Bestandsinformatie
+
+* **Style**: laat je best op de standaard 'Colorbox medium'. Dit zorgt ervoor dat klikken op een opgeladen beeld in de tekst een pop-up scherm met een grotere weergave van dat beeld opent.
+* **Alternatieve tekst**: het is aan te raden om dit veld in te vullen. De tekst zal getoond worden indien een afbeelding om één of andere reden niet kan geladen worden.
+* **Titel**: dit veld heeft twee toepassingen
+	1. de tekst wordt getoond wanneer de gebruiker met de muis over de afbeelding beweegt
+	2. met de tekst wordt een onderschrift gevormd dat  (als link naar een grote weergave van het beeld) onderaan het opgeladen beeld verschijnt. Deze functionaliteit kan makkelijk afgezet worden indien ongewenst. En je kan het bijvoorbeeld ook gebruiken om de naam van de auteur van de foto weer te geven.  
+
 Er is geen limiet aan het aantal beelden, maar het is niet de bedoeling hier volledige fotosets te gaan invoeren. Daarvoor dient onder andere de [flickr-extensie](../extensies/flickr.md). 
 
 ### Onder  'Bestand toevoegen' staan vier opties:
@@ -45,7 +53,7 @@ alle beelden en bijlages van de vorige versie zijn gekopieerd naar een folder op
 
 ### Op de voorpagina
 
-Het eerste beeld dat in het veld 'Beeld' ingevoegd wordt, via welke methode ook, komt bij een bericht sowiesi in het overzicht 'Actueel' en op de voorpagina terecht. Zelfs indien je dat beeld niet expliciet in je tekst invoegt. Indien je meerdere beelden hebt dan kan je de volgorde aanpassen door ze op de juiste plaats te slepen. 
+Het eerste beeld dat in het veld 'Beeld' ingevoegd wordt, via welke methode ook, komt bij een bericht sowieso in het overzicht 'Actueel' en op de voorpagina terecht. Zelfs indien je dat beeld niet expliciet in je tekst invoegt. Indien je meerdere beelden hebt dan kan je de volgorde aanpassen door ze op de juiste plaats te slepen. 
 
 ### Insert
 
