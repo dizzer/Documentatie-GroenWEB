@@ -1,11 +1,11 @@
 # Opdrachten
 
-Indien je deze opdrachten kan uitvoeren dan heb je de belangrijkste functionaliteit onder de knie. Gebruik hiervoor de [oefensite](http://oefen3.groenweb.be).
+Indien je deze opdrachten kan uitvoeren dan heb je de belangrijkste functionaliteit onder de knie. Gebruik hiervoor de [oefensite](http://harelbek.groen2.ys.be).
 
 ## berichten
 
-1. post een bericht met 3 foto’s
-2. zorg dat er 1 foto op de voorpagina en 3 in het bericht te zien zijn
+1. post een bericht met 2 foto’s
+2. zorg dat er 1 foto op de voorpagina en 2 in het bericht te zien zijn
 3. voeg een bijlage toe
 4. haal een bericht van de voorpagina
 5. stop je bericht in een andere bevoegdheid/dossier
