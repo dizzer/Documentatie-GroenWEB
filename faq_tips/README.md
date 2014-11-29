@@ -19,3 +19,4 @@
 10. [De account voor de beheerder heet 'redactie', kan ik dat aanpassen?](./redactie_account.md)
 11. [Wat is een 'taxonomie'?](./taxonomie.md)
 12. [Hoe voeg ik youtube en andere video's toe?](video_toevoegen.md)
+13. [Hoe voeg ik een Facebook Like Box toe aan de rechterkolom](facebook_likebox.md)
