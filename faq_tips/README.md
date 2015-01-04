@@ -20,3 +20,4 @@
 11. [Wat is een 'taxonomie'?](./taxonomie.md)
 12. [Hoe voeg ik youtube en andere video's toe?](video_toevoegen.md)
 13. [Hoe voeg ik een Facebook Like Box toe aan de rechterkolom](facebook_likebox.md)
+14. [Ik probeer in het linkermenu van de standaardlayout een tweede laag toe te voegen, maar dat lukt niet echt.](uitklapbaar_navigatiemenu.md)
