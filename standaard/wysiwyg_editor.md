@@ -2,7 +2,7 @@
 
 De aanmaakformulieren van alle types berichten zijn voorzien van een [wysiwyg editor](https://nl.wikipedia.org/wiki/Wysiwyg) waarmee je tekst kunnen opmaken en hyperlinks, beelden en video kan toevoegen aan tekst. 
 
-Hoe je [beelden](./beelden_toevoegen.md), [video](video_toevoegen.md) en [links](links_toevoegen.md) kan toevoegen staat elders beschreven. 
+Hoe je [beelden](../faq_tips/beelden_toevoegen.md), [video](../faq_tips/video_toevoegen.md) en [links](../faq_tips/links_toevoegen.md) kan toevoegen staat elders beschreven. 
 
 ## Knippen en plakken
 

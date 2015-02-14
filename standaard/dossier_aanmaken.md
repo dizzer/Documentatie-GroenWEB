@@ -31,7 +31,7 @@ Om berichten en pagina's aan een dossier toe te wijzen is er in het [aanmaakform
 
 **IMAGE**: hier kan je een foto of ander beeld opladen vanaf je harde schijf of binnenhalen vanaf een URL. Het beeld komt bovenaan de tekst, over de hele breedte van de middenkolom. ([voorbeeld](http://elkedecruynaere.be/bevoegdheid/onderwijs))
 
-**tekst**: De eigenlijke tekst van het dossier komt hier. Ofwel via rechtstreeks typen in het veld ofwel via knippen en plakken uit een tekstverwerker of (beter) een teksteditor ([tip]()). 
+**tekst**: De eigenlijke tekst van het dossier komt hier. Ofwel via rechtstreeks typen in het veld ofwel via knippen en plakken uit een tekstverwerker of (beter) een teksteditor ([tip](http://groenweb.be/helpdesk/knippen_en_plakken_vanuit_msword_geen_goed_idee)). 
 
 De knoppen bovenaan het veld bieden functionaliteit bij de [opmaak van de tekst](./wysiwyg_editor.md) en het [toevoegen van hyperlinks](../faq_tips/links_toevoegen.md), [beelden](../faq_tips/beelden_toevoegen.md) en [video](../faq_tips/video_toevoegen.md).
 
