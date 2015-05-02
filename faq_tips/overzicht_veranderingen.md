@@ -1,10 +1,10 @@
 # Overzicht veranderingen vorige versie
 
-deze documentatie is bedoeld voor beheerders van bestaande GroenWeb sites. Het geeft een overzicht van de veranderingen die in de loop van de komende maanden gaan doorgevoerd worden in het kader van de update van Drupal 6 naar Drupal 7.
+deze documentatie geeft een overzicht van de veranderingen die in de loop van 2014-15 werden doorgevoerd in het kader van de update van Drupal 6 naar Drupal 7.
 
 ## Lay-out
 
-_mobile first_ en minimalistisch
+[_mobile first_](http://www.heeftstijl.nl/mobile-first/) en minimalistisch
 
 ![](../beelden/screenshot_d6_s.png) ![](../beelden/screenshot_d7_s.png)
 
