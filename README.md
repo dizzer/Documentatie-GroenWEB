@@ -28,11 +28,10 @@ De folder [extensies](./extensies) bevat een beschrijving van alle onderdelen en
 De folder [FAQ & Tips](faq_tips) bevat vaak gestelde vragen (en de bijhorende antwoorden) en een aantal puntjes om op te letten.
 
 
-## Drie types sites 
+## Twee types sites 
 
 1.  mandataris / kandidaat
 2.  groep
-3.  site voor meerdere groepen
 
 2 is de standaard, alle documentatie heeft in eerste instantie betrekking op een site voor een groep. Documentatie voor type 1 wordt _cursief_ weergegeven. 
 

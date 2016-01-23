@@ -21,3 +21,4 @@
 12. [Hoe voeg ik youtube en andere video's toe?](video_toevoegen.md)
 13. [Hoe voeg ik een Facebook Like Box toe aan de rechterkolom](facebook_likebox.md)
 14. [Ik probeer in het linkermenu van de standaardlayout een tweede laag toe te voegen, maar dat lukt niet echt.](uitklapbaar_navigatiemenu.md)
+15. [Ik wil de volgorde van de blokken aan de rechterkant aanpassen. Volgens de waarden van 'gewicht' lijkt alles correct te zijn gedefinieerd, maar op de homepage lijkt er iets mis te lopen.](volgorde_rechterblokken_aanpassen.md)
