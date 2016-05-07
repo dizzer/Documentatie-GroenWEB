@@ -38,5 +38,5 @@ De folder [FAQ & Tips](faq_tips) bevat vaak gestelde vragen (en de bijhorende an
 
 ## Oefenmateriaal
 
-* [oefensite](http://oefen3.groenweb.be)
+* [oefensite](http://oefen.groenweb.be)
 * [opdrachten](./faq_tips/opdrachten.md)
